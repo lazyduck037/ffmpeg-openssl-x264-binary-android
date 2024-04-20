@@ -26,11 +26,11 @@ export ANDROID_SDK_HOME=path/to/android-sdk
 My case:
 ```bash
 export ANDROID_NDK_HOME=/Users/lap15292-local/Android/Sdk/ndk/25.1.8937393 && \
-export ANDROID_SDK_HOME=/Users/lap15292-local/Android/Sdk && \
+export ANDROID_SDK_HOME=/Users/lap15292-local/Android/Sdk && \[](url)
 ./build.sh
 ```
 ## Download
-
+[Release](https://github.com/lazyduck037/ffmpeg-openssl-x264-binary-android/releases/download/1.0.0/release.zip) binary
 ## References
   - [FfmpegAndroidMaker](https://github.com/Javernaut/ffmpeg-android-maker) by [Javernaut](https://github.com/Javernaut)
 
