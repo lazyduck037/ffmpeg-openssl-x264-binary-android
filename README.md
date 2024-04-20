@@ -26,7 +26,7 @@ export ANDROID_SDK_HOME=path/to/android-sdk
 My case:
 ```bash
 export ANDROID_NDK_HOME=/Users/lap15292-local/Android/Sdk/ndk/25.1.8937393 && \
-export ANDROID_SDK_HOME=/Users/lap15292-local/Android/Sdk && \[](url)
+export ANDROID_SDK_HOME=/Users/lap15292-local/Android/Sdk && \
 ./build.sh
 ```
 ## Download
