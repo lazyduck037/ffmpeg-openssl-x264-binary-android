@@ -12,7 +12,7 @@ This repo contains build scripts to build FFmeg-7.0, Openssl-3.3.0, H264 libs an
  * **H264** snapshot-20191217-2245-stable [Download](https://download.videolan.org/pub/videolan/x264/snapshots/x264-snapshot-20191217-2245-stable.tar.bz2)
  ## Build
  Build with:
-  * Android NDK: [r25c(25.2.9519653)](https://github.com/android/ndk/wiki/Unsupported-Downloads) or r26d(26.3.11579264)
+  * Android NDK: [r25c(25.2.9519653)](https://github.com/android/ndk/wiki/Unsupported-Downloads)
   * HOST: MAC/OSX, Linux (Not Test)
 
  My computer: MAC/OSX 14.4.1 (23E224) Apple M1
@@ -25,7 +25,7 @@ export ANDROID_SDK_HOME=path/to/android-sdk
 ```
 My case:
 ```bash
-export ANDROID_NDK_HOME=/Users/lap15292-local/Android/Sdk/ndk/26.3.11579264 && \
+export ANDROID_NDK_HOME=/Users/lap15292-local/Android/Sdk/ndk/25.1.8937393 && \
 export ANDROID_SDK_HOME=/Users/lap15292-local/Android/Sdk && \
 ./build.sh
 ```
