@@ -1,5 +1,5 @@
 # Prebuild ffmpeg, openssl, H264 for Android platform
-This repo contains build scripts to build FFmeg-7.0, Openssl-3.3.0, H264 libs and executable binary for Android. It also builds FFmeg with dependences H264, Openssl in the repo.
+This repo contains build scripts to build FFmeg-7.0, Openssl-3.3.0, H264 libs and executable binary for Android. It also builds FFmeg with dependences H264, Openssl in the repo. The prebuild libs are in build directory.
 # Supported Android ABIs
 + `armeabi` (Android 21+)
 + `armeabi-v7a` (Android 21+)
